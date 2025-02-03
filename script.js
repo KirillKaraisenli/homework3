@@ -1,32 +1,3 @@
-// let name = "Kirill";
-// let secondname = "Karaisenli";
-// let fullname = `${name} ${secondname}`;
-// console.log(fullname);
-// console.log(fullname.toUpperCase());
-// console.log(fullname.charAt());
-// console.log(fullname.indexOf('e'));
-
-// Напиши скрипт який виведе рядок в форматі: “Гість x y 
-// поселяється в n номер g”, 
-// підставивши замість x, y, n, g значення змінних.
-
-// const x = "John";
-// const y = "Doe";
-// const n = "Hotel";
-// const g = 10;
-
-// const message = `Гість ${x} ${y} поселяється в ${n} номер ${g}`
-// console.log(message);
-
-// Створи змінну яка буде зберігати рядок 
-// “Ваш баланс поповнено на 1”.
-//  Додай в кінець рядка довільну кількість нулів.
-//   Довжину рядка дізнайся за допомогою властивості.
-
-// let balance = "Ваш баланс поповнено на 1";
-// console.log("balance:", balance.length);
-// let newbalance = balance.padEnd(28, 0)
-// console.log(newbalance);
 
 // 1
 
